@@ -95,7 +95,13 @@
     </div>
     <div id="Defense" class="container">
         <h2>Visual Encodings</h2>
+        <p><b>Position: </b>Horizontal position along the x-axis encodes two variables. The first and most prominently is opponent club. The second is time, with left being played earlier in the season. The vertical position encodes number of goals scored by the selected team.</p>
+        <p><b>Length/height: </b>The length/height of the bar encodes the number of goals scored by the selected team</p>
+        <p><b>Hoover Text: </b> Includes the number of goals the selected team scored in that match as well as how many were scored against them.</p>
+        <p><b>Reasoning: </b>I chose to use a graph because length/height is the best way to encode discrete data (goals). From their I narrowed it down between a scatterplot and a bar chart. I felt the scatter chart did not effectively communicate an ordinal scale on the x-axis. The last consideration was how to sort the x-axis data. I chose time because "recent form" is huge in the football world. Recent form means how well the team has done the one or two games before their next. A chronological x-axis would allow the viewer to understand this concept in my visualization.</p>
+        <br/>
         <h2>Control Features</h2>
+        <p>My visualization includes two types of controls. The first type of control is the team selector. This allows the viewer to isolate the data about the football club that is most important to them. I chose to make the default Chelsea because that is my favorite club. The second control allows the user to view either home game goals or away game goals. I did this because it allows the user to ask pretty specific questions about the club they are interested in. For example, did Chelsea score more home goals later in the season? With the added hover text, a user can find an answer to the question did Chelsea run up the score on a team or was the game just generally a shoot out?</p>
     </div>
 </body>
 
