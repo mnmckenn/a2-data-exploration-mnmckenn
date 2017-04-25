@@ -1,0 +1,381 @@
+id,home_team,away_team,home_team_goal,away_team_goal,goal_differential
+4389,Arsenal,West Ham United,0,2,-2
+4399,Arsenal,Everton,2,1,1
+4419,Arsenal,Tottenham Hotspur,1,1,0
+4449,Arsenal,Sunderland,3,1,2
+4469,Arsenal,Manchester City,2,1,1
+4489,Arsenal,Bournemouth,2,0,2
+4509,Arsenal,Newcastle United,1,0,1
+4539,Arsenal,Chelsea,0,1,-1
+4549,Arsenal,Southampton,0,0,0
+4569,Arsenal,Leicester City,2,1,1
+4589,Arsenal,Swansea City,1,2,-1
+4609,Arsenal,Liverpool,0,0,0
+4619,Arsenal,West Bromwich Albion,2,0,2
+4639,Arsenal,Watford,4,0,4
+4659,Arsenal,Crystal Palace,1,1,0
+4679,Arsenal,Norwich City,1,0,1
+4699,Arsenal,Aston Villa,4,0,4
+4719,Arsenal,Stoke City,2,0,2
+4749,Arsenal,Manchester United,3,0,3
+4400,Aston Villa,Swansea City,1,2,-1
+4420,Aston Villa,Manchester City,0,0,0
+4439,Aston Villa,Watford,2,3,-1
+4459,Aston Villa,Arsenal,0,2,-2
+4479,Aston Villa,West Ham United,1,1,0
+4499,Aston Villa,Manchester United,0,1,-1
+4519,Aston Villa,Crystal Palace,1,0,1
+4529,Aston Villa,Leicester City,1,1,0
+4559,Aston Villa,Norwich City,2,0,2
+4570,Aston Villa,Liverpool,0,6,-6
+4590,Aston Villa,Everton,1,3,-2
+4620,Aston Villa,Tottenham Hotspur,0,2,-2
+4640,Aston Villa,Chelsea,0,4,-4
+4649,Aston Villa,Bournemouth,1,2,-1
+4669,Aston Villa,Southampton,2,4,-2
+4689,Aston Villa,Newcastle United,0,0,0
+4709,Aston Villa,Sunderland,2,2,0
+4729,Aston Villa,West Bromwich Albion,0,1,-1
+4750,Aston Villa,Stoke City,0,1,-1
+4390,Bournemouth,Aston Villa,0,1,-1
+4401,Bournemouth,Tottenham Hotspur,1,5,-4
+4421,Bournemouth,Newcastle United,0,1,-1
+4440,Bournemouth,Everton,3,3,0
+4460,Bournemouth,Manchester United,2,1,1
+4480,Bournemouth,Crystal Palace,0,0,0
+4520,Bournemouth,West Ham United,1,3,-2
+4530,Bournemouth,Norwich City,3,0,3
+4560,Bournemouth,Arsenal,0,2,-2
+4571,Bournemouth,Stoke City,1,3,-2
+4591,Bournemouth,Southampton,2,0,2
+4621,Bournemouth,Swansea City,3,2,1
+4641,Bournemouth,Manchester City,0,4,-4
+4660,Bournemouth,Liverpool,1,2,-1
+4670,Bournemouth,Chelsea,1,4,-3
+4690,Bournemouth,West Bromwich Albion,1,1,0
+4710,Bournemouth,Leicester City,1,1,0
+4730,Bournemouth,Sunderland,2,0,2
+4751,Bournemouth,Watford,1,1,0
+4731,Chelsea,Arsenal,2,0,2
+4759,Chelsea,Aston Villa,2,0,2
+4450,Chelsea,Bournemouth,0,1,-1
+4711,Chelsea,Crystal Palace,1,2,-1
+4531,Chelsea,Everton,3,3,0
+4700,Chelsea,Leicester City,1,1,0
+4409,Chelsea,Liverpool,1,3,-2
+4661,Chelsea,Manchester City,0,3,-3
+4561,Chelsea,Manchester United,1,1,0
+4572,Chelsea,Newcastle United,5,1,4
+4429,Chelsea,Norwich City,1,0,1
+4752,Chelsea,Southampton,1,3,-2
+4599,Chelsea,Stoke City,1,1,0
+4470,Chelsea,Sunderland,3,1,2
+4391,Chelsea,Swansea City,2,2,0
+4680,Chelsea,Tottenham Hotspur,2,2,0
+4481,Chelsea,Watford,2,2,0
+4523,Chelsea,West Bromwich Albion,2,2,0
+4629,Chelsea,West Ham United,2,2,0
+4410,Crystal Palace,Manchester United,0,0,0
+4430,Crystal Palace,Sunderland,0,1,-1
+4441,Crystal Palace,Newcastle United,5,1,4
+4461,Crystal Palace,Southampton,1,0,1
+4490,Crystal Palace,Swansea City,0,0,0
+4500,Crystal Palace,Arsenal,1,2,-1
+4510,Crystal Palace,Chelsea,0,3,-3
+4540,Crystal Palace,Tottenham Hotspur,1,3,-2
+4555,Crystal Palace,Bournemouth,1,2,-1
+4573,Crystal Palace,Watford,1,2,-1
+4600,Crystal Palace,Liverpool,1,2,-1
+4610,Crystal Palace,Aston Villa,2,1,1
+4630,Crystal Palace,Leicester City,0,1,-1
+4650,Crystal Palace,Norwich City,1,0,1
+4671,Crystal Palace,Everton,0,0,0
+4691,Crystal Palace,Stoke City,2,1,1
+4720,Crystal Palace,Manchester City,0,1,-1
+4753,Crystal Palace,West Bromwich Albion,2,0,2
+4760,Crystal Palace,West Ham United,1,3,-2
+4392,Everton,Watford,2,2,0
+4411,Everton,Sunderland,6,2,4
+4431,Everton,Aston Villa,4,0,4
+4451,Everton,Crystal Palace,1,1,0
+4471,Everton,Leicester City,2,3,-1
+4491,Everton,Stoke City,3,4,-1
+4511,Everton,Tottenham Hotspur,1,1,0
+4541,Everton,Swansea City,1,2,-1
+4558,Everton,Newcastle United,3,0,3
+4574,Everton,West Bromwich Albion,0,1,-1
+4601,Everton,West Ham United,2,3,-1
+4611,Everton,Manchester City,0,2,-2
+4631,Everton,Arsenal,0,2,-2
+4662,Everton,Southampton,1,1,0
+4681,Everton,Bournemouth,2,1,1
+4701,Everton,Norwich City,3,0,3
+4721,Everton,Chelsea,3,1,2
+4754,Everton,Liverpool,1,1,0
+4761,Everton,Manchester United,0,3,-3
+4393,Leicester City,Sunderland,4,2,2
+4402,Leicester City,Crystal Palace,1,0,1
+4422,Leicester City,Watford,2,1,1
+4442,Leicester City,Manchester United,1,1,0
+4462,Leicester City,Chelsea,2,1,1
+4492,Leicester City,Manchester City,0,0,0
+4512,Leicester City,Bournemouth,0,0,0
+4542,Leicester City,Stoke City,3,0,3
+4550,Leicester City,Liverpool,2,0,2
+4579,Leicester City,Norwich City,1,0,1
+4592,Leicester City,West Bromwich Albion,2,2,0
+4612,Leicester City,Tottenham Hotspur,1,1,0
+4622,Leicester City,Newcastle United,1,0,1
+4642,Leicester City,Southampton,1,0,1
+4663,Leicester City,West Ham United,2,2,0
+4672,Leicester City,Swansea City,4,0,4
+4692,Leicester City,Everton,3,1,2
+4722,Leicester City,Aston Villa,3,2,1
+4739,Leicester City,Arsenal,2,5,-3
+4403,Liverpool,Southampton,1,1,0
+4423,Liverpool,Crystal Palace,1,2,-1
+4443,Liverpool,Swansea City,1,0,1
+4463,Liverpool,West Bromwich Albion,2,2,0
+4482,Liverpool,Leicester City,1,0,1
+4501,Liverpool,Bournemouth,1,0,1
+4522,Liverpool,Arsenal,3,3,0
+4532,Liverpool,Manchester United,0,1,-1
+4562,Liverpool,Sunderland,2,2,0
+4580,Liverpool,Everton,4,0,4
+4596,Liverpool,Manchester City,3,0,3
+4623,Liverpool,Chelsea,1,1,0
+4643,Liverpool,Tottenham Hotspur,1,1,0
+4651,Liverpool,Stoke City,4,1,3
+4673,Liverpool,Newcastle United,2,2,0
+4693,Liverpool,Watford,2,0,2
+4712,Liverpool,West Ham United,0,3,-3
+4732,Liverpool,Norwich City,1,1,0
+4740,Liverpool,Aston Villa,3,2,1
+4412,Manchester City,Norwich City,2,1,1
+4432,Manchester City,Liverpool,1,4,-3
+4444,Manchester City,Southampton,3,1,2
+4464,Manchester City,Swansea City,2,1,1
+4483,Manchester City,Sunderland,4,1,3
+4502,Manchester City,Chelsea,3,0,3
+4524,Manchester City,Everton,0,0,0
+4533,Manchester City,Crystal Palace,4,0,4
+4563,Manchester City,Leicester City,1,3,-2
+4575,Manchester City,Tottenham Hotspur,1,2,-1
+4602,Manchester City,Aston Villa,4,0,4
+4632,Manchester City,Manchester United,0,1,-1
+4652,Manchester City,West Bromwich Albion,2,1,1
+4674,Manchester City,Stoke City,4,0,4
+4694,Manchester City,Arsenal,2,2,0
+4713,Manchester City,Watford,2,0,2
+4733,Manchester City,West Ham United,1,2,-1
+4755,Manchester City,Newcastle United,6,1,5
+4762,Manchester City,Bournemouth,5,1,4
+4394,Manchester United,Tottenham Hotspur,1,0,1
+4404,Manchester United,Manchester City,0,0,0
+4424,Manchester United,West Bromwich Albion,2,0,2
+4452,Manchester United,West Ham United,0,0,0
+4472,Manchester United,Norwich City,1,2,-1
+4493,Manchester United,Chelsea,0,0,0
+4513,Manchester United,Swansea City,2,1,1
+4543,Manchester United,Southampton,0,1,-1
+4556,Manchester United,Stoke City,3,0,3
+4581,Manchester United,Arsenal,3,2,1
+4597,Manchester United,Watford,1,0,1
+4613,Manchester United,Newcastle United,0,0,0
+4624,Manchester United,Crystal Palace,2,0,2
+4644,Manchester United,Everton,1,0,1
+4664,Manchester United,Aston Villa,1,0,1
+4682,Manchester United,Leicester City,1,1,0
+4702,Manchester United,Bournemouth,3,1,2
+4723,Manchester United,Liverpool,3,1,2
+4741,Manchester United,Sunderland,3,0,3
+4395,Newcastle United,Southampton,2,2,0
+4413,Newcastle United,Stoke City,0,0,0
+4433,Newcastle United,Leicester City,0,3,-3
+4453,Newcastle United,Liverpool,2,0,2
+4473,Newcastle United,Aston Villa,1,1,0
+4484,Newcastle United,Everton,0,1,-1
+4525,Newcastle United,Manchester United,3,3,0
+4534,Newcastle United,West Ham United,2,1,1
+4564,Newcastle United,West Bromwich Albion,1,0,1
+4582,Newcastle United,Manchester City,1,1,0
+4603,Newcastle United,Bournemouth,1,3,-2
+4633,Newcastle United,Sunderland,1,1,0
+4665,Newcastle United,Swansea City,3,0,3
+4683,Newcastle United,Crystal Palace,1,0,1
+4703,Newcastle United,Tottenham Hotspur,5,1,4
+4714,Newcastle United,Arsenal,0,1,-1
+4734,Newcastle United,Watford,1,2,-1
+4742,Newcastle United,Chelsea,2,2,0
+4763,Newcastle United,Norwich City,6,2,4
+4396,Norwich City,Crystal Palace,1,3,-2
+4405,Norwich City,West Bromwich Albion,0,1,-1
+4425,Norwich City,Swansea City,1,0,1
+4445,Norwich City,Arsenal,1,1,0
+4465,Norwich City,Everton,1,1,0
+4494,Norwich City,Aston Villa,2,0,2
+4514,Norwich City,Southampton,1,0,1
+4544,Norwich City,Liverpool,4,5,-1
+4551,Norwich City,Tottenham Hotspur,0,3,-3
+4576,Norwich City,West Ham United,2,2,0
+4593,Norwich City,Chelsea,1,2,-1
+4614,Norwich City,Stoke City,1,1,0
+4625,Norwich City,Manchester City,0,0,0
+4645,Norwich City,Newcastle United,3,2,1
+4666,Norwich City,Sunderland,0,3,-3
+4675,Norwich City,Watford,4,2,2
+4695,Norwich City,Manchester United,0,1,-1
+4724,Norwich City,Bournemouth,3,1,2
+4756,Norwich City,Leicester City,1,2,-1
+4414,Southampton,Bournemouth,2,0,2
+4434,Southampton,Stoke City,0,1,-1
+4454,Southampton,Aston Villa,1,1,0
+4474,Southampton,Tottenham Hotspur,0,2,-2
+4485,Southampton,Arsenal,4,0,4
+4503,Southampton,Everton,0,3,-3
+4526,Southampton,Watford,2,0,2
+4535,Southampton,West Bromwich Albion,3,0,3
+4565,Southampton,West Ham United,1,0,1
+4583,Southampton,Chelsea,1,2,-1
+4604,Southampton,Sunderland,1,1,0
+4634,Southampton,Liverpool,3,2,1
+4653,Southampton,Newcastle United,3,1,2
+4684,Southampton,Manchester City,4,2,2
+4704,Southampton,Crystal Palace,4,1,3
+4715,Southampton,Norwich City,3,0,3
+4735,Southampton,Manchester United,2,3,-1
+4743,Southampton,Swansea City,3,1,2
+4764,Southampton,Leicester City,2,2,0
+4397,Stoke City,Liverpool,0,1,-1
+4406,Stoke City,Watford,0,2,-2
+4426,Stoke City,Chelsea,1,0,1
+4455,Stoke City,Manchester City,2,0,2
+4475,Stoke City,Crystal Palace,1,2,-1
+4486,Stoke City,Manchester United,2,0,2
+4527,Stoke City,Norwich City,3,1,2
+4536,Stoke City,Arsenal,0,0,0
+4566,Stoke City,Everton,0,3,-3
+4584,Stoke City,Aston Villa,2,1,1
+4598,Stoke City,Newcastle United,1,0,1
+4626,Stoke City,Southampton,1,2,-1
+4646,Stoke City,Swansea City,2,2,0
+4667,Stoke City,Tottenham Hotspur,0,4,-4
+4685,Stoke City,Sunderland,1,1,0
+4705,Stoke City,West Ham United,2,1,1
+4716,Stoke City,West Bromwich Albion,0,1,-1
+4736,Stoke City,Leicester City,2,2,0
+4744,Stoke City,Bournemouth,2,1,1
+4407,Sunderland,Newcastle United,3,0,3
+4427,Sunderland,Southampton,0,1,-1
+4446,Sunderland,Stoke City,2,0,2
+4466,Sunderland,Watford,0,1,-1
+4495,Sunderland,Liverpool,0,1,-1
+4504,Sunderland,Norwich City,1,3,-2
+4515,Sunderland,Aston Villa,3,1,2
+4545,Sunderland,Bournemouth,1,1,0
+4552,Sunderland,Manchester City,0,1,-1
+4577,Sunderland,Manchester United,2,1,1
+4594,Sunderland,Crystal Palace,2,2,0
+4615,Sunderland,Swansea City,1,1,0
+4627,Sunderland,Everton,3,0,3
+4647,Sunderland,West Bromwich Albion,0,0,0
+4654,Sunderland,Leicester City,0,2,-2
+4676,Sunderland,Arsenal,0,0,0
+4696,Sunderland,Chelsea,3,2,1
+4725,Sunderland,Tottenham Hotspur,0,1,-1
+4757,Sunderland,West Ham United,2,2,0
+4415,Swansea City,Arsenal,0,3,-3
+4435,Swansea City,Bournemouth,2,2,0
+4456,Swansea City,Leicester City,0,3,-3
+4476,Swansea City,West Ham United,0,0,0
+4487,Swansea City,West Bromwich Albion,1,0,1
+4505,Swansea City,Newcastle United,2,0,2
+4521,Swansea City,Sunderland,2,4,-2
+4537,Swansea City,Watford,1,0,1
+4567,Swansea City,Crystal Palace,1,1,0
+4578,Swansea City,Southampton,0,1,-1
+4605,Swansea City,Norwich City,1,0,1
+4635,Swansea City,Aston Villa,1,0,1
+4655,Swansea City,Chelsea,1,0,1
+4686,Swansea City,Liverpool,3,1,2
+4706,Swansea City,Manchester City,1,1,0
+4717,Swansea City,Manchester United,2,1,1
+4737,Swansea City,Everton,0,0,0
+4758,Swansea City,Tottenham Hotspur,2,2,0
+4765,Swansea City,Stoke City,0,1,-1
+4416,Tottenham Hotspur,Aston Villa,3,1,2
+4436,Tottenham Hotspur,West Ham United,4,1,3
+4447,Tottenham Hotspur,Chelsea,0,0,0
+4467,Tottenham Hotspur,Newcastle United,1,2,-1
+4488,Tottenham Hotspur,Norwich City,3,0,3
+4506,Tottenham Hotspur,Stoke City,2,2,0
+4528,Tottenham Hotspur,Leicester City,0,1,-1
+4538,Tottenham Hotspur,Sunderland,4,1,3
+4568,Tottenham Hotspur,Watford,1,0,1
+4585,Tottenham Hotspur,Swansea City,2,1,1
+4606,Tottenham Hotspur,Arsenal,2,2,0
+4636,Tottenham Hotspur,Bournemouth,3,0,3
+4656,Tottenham Hotspur,Manchester United,3,0,3
+4677,Tottenham Hotspur,West Bromwich Albion,1,1,0
+4697,Tottenham Hotspur,Southampton,1,2,-1
+4718,Tottenham Hotspur,Everton,0,0,0
+4738,Tottenham Hotspur,Crystal Palace,1,0,1
+4745,Tottenham Hotspur,Manchester City,4,1,3
+4766,Tottenham Hotspur,Liverpool,0,0,0
+4417,Watford,West Ham United,2,0,2
+4437,Watford,Manchester United,1,2,-1
+4457,Watford,Norwich City,2,0,2
+4477,Watford,Liverpool,3,0,3
+4496,Watford,Tottenham Hotspur,1,2,-1
+4507,Watford,West Bromwich Albion,0,0,0
+4516,Watford,Manchester City,1,2,-1
+4546,Watford,Newcastle United,2,1,1
+4553,Watford,Chelsea,0,0,0
+4586,Watford,Bournemouth,0,0,0
+4607,Watford,Leicester City,0,1,-1
+4616,Watford,Southampton,0,0,0
+4637,Watford,Stoke City,1,2,-1
+4657,Watford,Everton,1,1,0
+4687,Watford,Aston Villa,3,2,1
+4707,Watford,Sunderland,2,2,0
+4726,Watford,Swansea City,1,0,1
+4746,Watford,Crystal Palace,0,1,-1
+4767,Watford,Arsenal,0,3,-3
+4398,West Bromwich Albion,Manchester City,0,3,-3
+4418,West Bromwich Albion,Leicester City,2,3,-1
+4438,West Bromwich Albion,Arsenal,2,1,1
+4458,West Bromwich Albion,Tottenham Hotspur,1,1,0
+4478,West Bromwich Albion,Bournemouth,1,2,-1
+4497,West Bromwich Albion,Newcastle United,1,0,1
+4517,West Bromwich Albion,Stoke City,2,1,1
+4547,West Bromwich Albion,Aston Villa,0,0,0
+4557,West Bromwich Albion,Swansea City,1,1,0
+4587,West Bromwich Albion,Crystal Palace,3,2,1
+4608,West Bromwich Albion,Manchester United,1,0,1
+4617,West Bromwich Albion,Chelsea,2,3,-1
+4638,West Bromwich Albion,Norwich City,0,1,-1
+4668,West Bromwich Albion,Watford,0,1,-1
+4688,West Bromwich Albion,West Ham United,0,3,-3
+4708,West Bromwich Albion,Liverpool,1,1,0
+4727,West Bromwich Albion,Southampton,0,0,0
+4747,West Bromwich Albion,Everton,2,3,-1
+4768,West Bromwich Albion,Sunderland,1,0,1
+4408,West Ham United,Chelsea,2,1,1
+4428,West Ham United,Everton,1,1,0
+4448,West Ham United,West Bromwich Albion,1,1,0
+4468,West Ham United,Stoke City,0,0,0
+4498,West Ham United,Southampton,2,1,1
+4508,West Ham United,Leicester City,1,2,-1
+4518,West Ham United,Liverpool,2,0,2
+4548,West Ham United,Manchester City,2,2,0
+4554,West Ham United,Aston Villa,2,0,2
+4588,West Ham United,Sunderland,1,0,1
+4595,West Ham United,Tottenham Hotspur,1,0,1
+4618,West Ham United,Bournemouth,3,4,-1
+4628,West Ham United,Watford,3,1,2
+4648,West Ham United,Crystal Palace,2,2,0
+4658,West Ham United,Arsenal,3,3,0
+4678,West Ham United,Manchester United,3,2,1
+4698,West Ham United,Swansea City,1,4,-3
+4728,West Ham United,Newcastle United,2,0,2
+4748,West Ham United,Norwich City,2,2,0

@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A2 — Data Exploration</title>
+
+    <!-- Libraries -->
+
+    <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
+
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="//rawgithub.com/Caged/d3-tip/master/examples/example-styles.css">
+
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <script src="http://d3js.org/d3.v4.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-tip/0.7.1/d3-tip.js"></script>
+
+    <!-- Custom files -->
+    <link rel="stylesheet" href="css/main.css" />
+</head>
+
+<body class="container">
+    <nav class="navbar navbar-default">
+        <div cass="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav">
+                    <li class="active"><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <h1>Welcome to A2 - Data Exploration</h1>
+    <div class="description">
+
+    </div>
+    <div class="btn-group" data-toggle="buttons">
+        <div class="form-group">
+            <label for="sel1">Team:</label>
+            <select class="form-control input">
+                <option>Arsenal</option>
+                <option>Aston Villa</option>
+                <option>Bournemouth</option>
+                <option selected>Chelsea</option>
+                <option>Crystal Palace</option>
+                <option>Everton</option>
+                <option>Leicester City</option>
+                <option>Liverpool</option>
+                <option>Manchester City</option>
+                <option>Manchester United</option>
+                <option>Newcastle United</option>
+                <option>Norwich City</option>
+                <option>Southampton</option>
+                <option>Stoke City</option>
+                <option>Sunderland</option>
+                <option>Swansea City</option>
+                <option>Tottenham Hotspur</option>
+                <option>Watford</option>
+                <option>West Bromwich Albion</option>
+                <option>West Ham United</option>
+            </select>
+        </div>
+
+        <label class="btn btn-primary active">
+            <input value="home" class="type input" type="radio" name="options" id="option1" autocomplete="off">Home Goals
+			</label>
+        <label class="btn btn-primary">
+				<input value="away" type="radio" class="type input" name="options" id="option2" autocomplete="off">Away Goals
+			</label>
+    </div>
+    <div id="vis"></div>
+</body>
+
+<!-- your script file -->
+<script src="js/main.js"></script>
+
+</html>
