@@ -52,7 +52,7 @@ $(function () {
 
         // Define yAxis using d3.axisLeft(). Scale will be set in the setAxes function.
         var yAxis = d3.axisLeft()
-            .tickFormat(d3.format('.2s'));
+            .tickFormat(d3.format('.0f'));
 
         var xAxisLabel = svg.append('g')
             .attr('transform', 'translate(' + margin.left + ',' + (drawHeight + margin.top) + ')')

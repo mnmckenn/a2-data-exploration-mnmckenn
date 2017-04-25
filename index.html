@@ -46,17 +46,19 @@
             <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                 <ul class="nav navbar-nav">
                     <li class="active"><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
+                    <li><a href=#Defense>Visual Defense</a></li>
                 </ul>
             </div>
         </div>
     </nav>
-    <h1>Welcome to A2 - Data Exploration</h1>
-    <div class="description">
+    <div class="container">
+        <div class="description">
+            <h1>English Premier League: Goal Analysis</h1>
+            <p>Below is a visualization of goals scored by various EPL teams in the 2015-2016 season.</p>
 
-    </div>
-    <div class="btn-group" data-toggle="buttons">
-        <div class="form-group">
-            <label for="sel1">Team:</label>
+            <p>Data Source: <a href="http://openfootball.github.io/">http://openfootball.github.io/</a></p>
+        </div>
+        <div class="btn-group" data-toggle="buttons">
             <select class="form-control input">
                 <option>Arsenal</option>
                 <option>Aston Villa</option>
@@ -80,15 +82,21 @@
                 <option>West Ham United</option>
             </select>
         </div>
+        <div class="btn-group" data-toggle="buttons">
 
-        <label class="btn btn-primary active">
+            <label class="btn btn-primary active">
             <input value="home" class="type input" type="radio" name="options" id="option1" autocomplete="off">Home Goals
 			</label>
-        <label class="btn btn-primary">
+            <label class="btn btn-primary">
 				<input value="away" type="radio" class="type input" name="options" id="option2" autocomplete="off">Away Goals
 			</label>
+        </div>
+        <div id="vis"></div>
     </div>
-    <div id="vis"></div>
+    <div id="Defense" class="container">
+        <h2>Visual Encodings</h2>
+        <h2>Control Features</h2>
+    </div>
 </body>
 
 <!-- your script file -->
